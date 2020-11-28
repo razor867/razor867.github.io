@@ -37,7 +37,7 @@ html {
 }
 .content-footer {
   font-weight: 600;
-  padding: 20px 0;
+  padding-top: 20px;
   color: white;
 }
 .title-content {
@@ -55,6 +55,15 @@ html {
 .card-title {
   font-size: 30px;
   font-weight: 700;
+}
+.center {
+  margin: auto;
+}
+.icon {
+  font-size: 30px;
+}
+.content-contact {
+  font-weight: 600;
 }
 
 /*responsive*/
