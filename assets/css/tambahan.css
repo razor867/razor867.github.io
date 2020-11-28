@@ -46,6 +46,16 @@ html {
 .content {
   font-size: 20px;
 }
+.line {
+  background-color: blueviolet;
+  height: 10px;
+  width: 100%;
+  border-radius: 10px;
+}
+.card-title {
+  font-size: 30px;
+  font-weight: 700;
+}
 
 /*responsive*/
 @media only screen and (max-width: 980px) {
@@ -75,5 +85,8 @@ html {
   .heading-3 {
     top: 150px;
     font-size: 18px;
+  }
+  .content {
+    font-size: 16px;
   }
 }
