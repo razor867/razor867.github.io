@@ -65,6 +65,27 @@ html {
 .content-contact {
   font-weight: 600;
 }
+a {
+  color: #625082;
+}
+a:hover {
+  text-decoration: none;
+  color: blueviolet;
+}
+.hire {
+  margin-left: 20px;
+  position: relative;
+  top: 200px;
+  background-color: #625082;
+  padding: 20px 40px;
+  border-radius: 7px;
+  font-size: larger;
+  font-weight: 600;
+}
+.hire:hover {
+  background-color: blueviolet;
+  text-decoration: none;
+}
 
 /*responsive*/
 @media only screen and (max-width: 980px) {
